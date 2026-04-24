@@ -1,4 +1,4 @@
-### Hi there 👋 ![Profile views](https://gpvc.arturio.dev/ibrahimcahit)
+### Don't think, just do. 
 
 #### Working on STM32, IMU's and Kalman Filters these days.
 
