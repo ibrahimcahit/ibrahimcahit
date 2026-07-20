@@ -1,11 +1,1 @@
-### Don't think, just do. 
-
-#### Working on STM32, IMU's and Kalman Filters these days.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimcahit&show_icons=true&theme=dark&count_private=FALSE)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcahit&layout=compact&show_icons=true&theme=dark)
-
-#### Most Recent REPO/Project:
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ibrahimcahit&repo=VTVL&show_owner=TRUE&show_icons=true&theme=dark)
+### Don't think, just do. | Our job is to solve problems, not write code
